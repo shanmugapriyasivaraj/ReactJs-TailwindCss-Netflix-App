@@ -35,6 +35,7 @@ const SavedShows = () => {
       console.log(error);
     }
   };
+
   return (
     <>
       <h2 className="text-white font-bold md:text-xl p-4">My Shows</h2>
